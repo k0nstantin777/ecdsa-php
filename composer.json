@@ -16,7 +16,7 @@
     "php-64bit": "^7.4|^8.0",
     "ext-openssl": "*",
     "ext-bcmath": "*",
-    "ext-gmp": "*",
+    "ext-gmp": "*"
   },
   "autoload": {
     "psr-4": {
